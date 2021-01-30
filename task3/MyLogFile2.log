@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-30T19:45:44</date>
+  <millis>1612025144003</millis>
+  <sequence>0</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>load.testing.CreateLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>200</message>
+</record>
+<record>
+  <date>2021-01-30T19:45:44</date>
+  <millis>1612025144088</millis>
+  <sequence>1</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>load.testing.CreateLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>32</message>
+</record>
+<record>
+  <date>2021-01-30T19:45:44</date>
+  <millis>1612025144096</millis>
+  <sequence>2</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>load.testing.CreateLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somebody0 wanna top up 84l</message>
+</record>
+<record>
+  <date>2021-01-30T19:45:44</date>
+  <millis>1612025144909</millis>
+  <sequence>3</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>load.testing.CreateLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somebody1 wanna scoop 26l</message>
+</record>
+<record>
+  <date>2021-01-30T19:45:45</date>
+  <millis>1612025145668</millis>
+  <sequence>4</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>load.testing.CreateLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somebody2 wanna scoop 71l</message>
+</record>
+<record>
+  <date>2021-01-30T19:45:46</date>
+  <millis>1612025146427</millis>
+  <sequence>5</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>load.testing.CreateLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somebody3 wanna top up 36l</message>
+</record>
+<record>
+  <date>2021-01-30T19:45:47</date>
+  <millis>1612025147189</millis>
+  <sequence>6</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>load.testing.CreateLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somebody4 wanna scoop 21l</message>
+</record>
+<record>
+  <date>2021-01-30T19:45:47</date>
+  <millis>1612025147949</millis>
+  <sequence>7</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>load.testing.CreateLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somebody5 wanna top up 68l</message>
+</record>
+<record>
+  <date>2021-01-30T19:45:48</date>
+  <millis>1612025148715</millis>
+  <sequence>8</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>load.testing.CreateLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somebody6 wanna top up 53l</message>
+</record>
+<record>
+  <date>2021-01-30T19:45:49</date>
+  <millis>1612025149472</millis>
+  <sequence>9</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>load.testing.CreateLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somebody7 wanna scoop 48l</message>
+</record>
+<record>
+  <date>2021-01-30T19:45:50</date>
+  <millis>1612025150231</millis>
+  <sequence>10</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>load.testing.CreateLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somebody8 wanna top up 58l</message>
+</record>

@@ -24,9 +24,9 @@ public class Main {
         }
         catch (IOException e) {
             e.printStackTrace();}
-
+//превращение строки с данными в массив элементов
         String[] info = line.split(" ");
-
+//запись значений в переменные в зависимости от последовательности данных
         if (info[0].contains("sphere")){
             if (info[1].contains("center")){
                 centerCircle[0] = Double.parseDouble(info[2].substring(1,info[2].length()-1));
@@ -76,6 +76,7 @@ public class Main {
                 centerCircle[2] = Double.parseDouble(info[13].substring(0,info[13].length()-3));
             }
         }
+        //расчет требуемых значений
         QuadraticEquation.solution(firstPoint[0],secondPoint[0],
                 firstPoint[1],secondPoint[1],
                 firstPoint[2],secondPoint[2],

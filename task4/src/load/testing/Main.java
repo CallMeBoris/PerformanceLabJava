@@ -9,17 +9,20 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Введите первое число");
+        System.out.println("Введите первую строку");
         String firstWord = reader.readLine();
-        System.out.println("Введите второе число");
+        System.out.println("Введите вторую строку");
         String secondWord = reader.readLine();
         reader.close();
+        //разбиваем вторую строку на отдельные символы
         String[] array = secondWord.split("");
         String secondWordSecond="";
+        //если символ является *, то перед ним ставим точку
         for (String s: array){
             if (s.equals("*")){s=".*";}
             secondWordSecond=secondWordSecond+s;
         }
+        //сравниваем строки через паттерны
         if (Pattern.matches(secondWordSecond,firstWord)){
             System.out.println("OK");
         }else {System.out.println("KO");}

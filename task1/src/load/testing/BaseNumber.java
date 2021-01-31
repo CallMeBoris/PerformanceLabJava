@@ -1,6 +1,7 @@
 package load.testing;
 
 class BaseNumber {
+    //для считывания системы счисления в строчном виде
      static int getBaseNumber(String base){
         switch (base.toLowerCase()){
             case "двоичная": return 2;

@@ -7,7 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dde4de0c-13e6-4c7a-859e-a0dfb3af4d0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/task1_jar/task1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/task1_jar/task1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task1/load/testing/BaseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task1/load/testing/BaseNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task1/load/testing/Letter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task1/load/testing/Letter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task1/load/testing/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task1/load/testing/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/load/testing/BaseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/load/testing/BaseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/load/testing/Letter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/load/testing/Letter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/load/testing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/load/testing/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task2/.idea/codeStyles/Project.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +38,7 @@
   <component name="ProjectId" id="1nhW0MMlCtx7H2uEdq6evxITjxz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -45,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JAR Application.task1.jar">
+  <component name="RunManager" selected="Application.Unnamed">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="load.testing.Main" />
       <module name="task1" />
@@ -97,7 +108,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
